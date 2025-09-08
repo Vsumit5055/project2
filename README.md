@@ -3,16 +3,37 @@ A modern full-stack real estate web application designed to provide seamless pro
 
 <hr/>
 
-💻 **Used Technologies:** <br>
-- **Frontend:** HTML, CSS, React.js, Mantine UI, React Query, Toastify
-- **Backend:** Node.js, Express.js, Prisma, MongoDB
-- **Authentication:** Auth0
-- **Deployment:** Vercel
-- **Image Upload:** Cloudinary
-- **State Management:** React Query
-- **Other:** Responsive design, Simple Animations, Cloud-based Storage
-- **Other Libraries / Tools:** <br>
-Google Fonts
+## 💻 Used Technologies  
+
+- **Frontend**  
+  - **HTML & CSS** → Provides semantic structure and responsive styling.  
+  - **React.js** → Component-based frontend framework for dynamic UIs.  
+  - **Mantine UI** → Modern React component library for fast UI development.  
+  - **React Query** → Efficient server-state management and data fetching.  
+  - **Toastify** → Elegant toast notifications for user feedback.  
+
+- **Backend**  
+  - **Node.js** → Runtime environment for executing JavaScript on the server.  
+  - **Express.js** → Web framework for handling routes and APIs.  
+  - **Prisma** → Type-safe ORM for database access.  
+  - **MongoDB** → NoSQL database for scalable data storage.  
+
+- **Authentication**  
+  - **Auth0** → Secure authentication and authorization management.  
+
+- **Deployment**  
+  - **Vercel** → Cloud platform for seamless deployment of frontend and backend.  
+
+- **Image Upload & Storage**  
+  - **Cloudinary** → Cloud-based image upload, storage, and optimization.  
+
+- **Other Features**  
+  - **Responsive Design** → Optimized for all devices.  
+  - **Simple Animations** → Smooth UI transitions and feedback.  
+  - **Cloud-based Storage** → Secure and scalable data management.  
+
+- **Other Libraries / Tools**  
+  - **Google Fonts** → Custom typography for modern UI/UX.  
 
 <hr/>
 
