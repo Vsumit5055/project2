@@ -20,7 +20,7 @@
     "axios": "^1.4.0",
     "dayjs": "^1.11.9",
     "esri-leaflet-geocoder": "2.3.3",
-    "framer-motion": "^10.8.5",
+    "framer-motion": "^10.18.0",
     "leaflet": "^1.9.4",
     "lodash": "^4.17.21",
     "react": "^18.2.0",

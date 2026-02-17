@@ -8,7 +8,7 @@ const Footer = () => {
 			<div className="paddings innerWidth flexCenter f-container">
 				{/* left side */}
 				<div className="flexColStart f-left">
-					<img src="./logo2.png" alt="" width={120} />
+					<img src="/logo2.png" alt="" width={120} />
 					<span className="secondaryText">
 						Our vision is to make all people <br />
 						the best place to live for them.
@@ -18,8 +18,8 @@ const Footer = () => {
 				<div className="flexColStart f-right">
 					<span className="primaryText">Information</span>
 					<span className="secondaryText" style={{display: "flex", flexDirection: "column", gap: "10px"}}>
-            <span>Egypt, Cairo</span>
-            <span>ahmedmaher.dev@gmail.com</span>
+            <span>India|Mumbai</span>
+            <span>Sumitvis@gmail.com</span>
           </span>
 					<div className="flexCenter f-menu">
 						<NavLink to="/">Home</NavLink>
@@ -31,7 +31,7 @@ const Footer = () => {
 			</div>
 			<div className="f-copyright" style={{display: "flex", flexDirection: "column", alignItems: "center", gap: "10px", padding: "20px"}}>
 				<p style={{ fontSize: "15px", textAlign: "center" }}>
-					Copyright &copy; <span id="copyright-year">2025</span>
+					Copyright &copy; <span id="copyright-year">2026</span>
 					Developed By{" "}
 					<a
 						href="https://ahmedmaher-portfolio.vercel.app/"
@@ -43,7 +43,7 @@ const Footer = () => {
 							fontWeight: "bold",
 						}}
 					>
-						Ahmed Maher
+						Vishwakarma Sumit
 					</a>
 				</p>
 				<span>All Rights Reserved</span>

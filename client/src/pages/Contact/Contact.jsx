@@ -2,7 +2,7 @@ import React from "react";
 import "./Contact.css";
 import { FaLinkedin, FaGithub, FaFacebook, FaWhatsapp } from "react-icons/fa";
 
-const profileImg = "./My_Picture_2.jpg";
+const profileImg = "./sumit.jpg";
 
 const Contact = () => {
 	return (
@@ -10,15 +10,15 @@ const Contact = () => {
 			<div className="contact-card">
 				<img
 					src={profileImg}
-					alt="Ahmed Maher Algohary profile"
+					alt="sumit vishwakarma"
 					className="contact-profile-img"
 				/>
-				<h1 className="contact-name">Ahmed Maher Algohary</h1>
+				<h1 className="contact-name">Sumit vishwakarma</h1>
 				<span className="contact-title">
-					Software Engineer | Full Stack Developer
+					BSC.computer science | Frontend web builder
 				</span>
 				<p className="contact-bio">
-					Passionate Software Engineer | Full Stack Developer with a
+					Passionate web developer | Full Stack Developer with a
 					Bachelor's in Computer and Control Systems Engineering.
 					<br />
 					Specialized in creating dynamic, responsive, and accessible
@@ -37,7 +37,7 @@ const Contact = () => {
 						</span>
 					</a>
 					<a
-						href="https://www.linkedin.com/in/ahmed-maher-algohary"
+						href="https://www.linkedin.com/in/sumit=vishwakarma=4b36573ab"
 						target="_blank"
 						rel="noopener noreferrer"
 						aria-label="LinkedIn"
@@ -46,7 +46,7 @@ const Contact = () => {
 						<FaLinkedin />
 					</a>
 					<a
-						href="https://github.com/Ahmed-Maher77"
+						href="https://github.com/Vsumit5055"
 						target="_blank"
 						rel="noopener noreferrer"
 						aria-label="GitHub"
@@ -64,7 +64,7 @@ const Contact = () => {
 						<FaFacebook />
 					</a>
 					<a
-						href="https://wa.me/+201150383416"
+						href="https://wa.me/+919665015350"
 						target="_blank"
 						rel="noopener noreferrer"
 						aria-label="WhatsApp"
@@ -75,7 +75,7 @@ const Contact = () => {
 				</div>
 				<div className="contact-email">
 					<a href="mailto:ahmedmaher.dev@gmail.com">
-						ahmedmaher.dev@gmail.com
+						sumitvishwakarma537@gmail.com
 					</a>
 				</div>
 			</div>
