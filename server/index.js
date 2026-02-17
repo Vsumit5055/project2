@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors());
 
-// ✅ Root Route (Browser test ke liye)
+// ✅ ROOT ROUTE (ye hona hi chahiye)
 app.get("/", (req, res) => {
   res.send("Backend is running successfully 🚀");
 });
@@ -23,7 +23,6 @@ app.get("/", (req, res) => {
 app.use("/api/user", userRoute);
 app.use("/api/residency", residencyRoute);
 
-// ✅ Use Render PORT properly
 const port = process.env.PORT || 3002;
 
 app.listen(port, () => {
